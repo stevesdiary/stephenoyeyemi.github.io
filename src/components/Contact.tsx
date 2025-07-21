@@ -49,7 +49,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="text-white font-medium">Email</h4>
-                    <p className="text-gray-400">john.doe@example.com</p>
+                    <p className="text-gray-400">stephenoyeyemi@gmail.com</p>
                   </div>
                 </div>
                 
@@ -59,7 +59,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="text-white font-medium">Phone</h4>
-                    <p className="text-gray-400">+1 (555) 123-4567</p>
+                    <p className="text-gray-400">+2348065976770</p>
                   </div>
                 </div>
                 
@@ -69,7 +69,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="text-white font-medium">Location</h4>
-                    <p className="text-gray-400">San Francisco, CA</p>
+                    <p className="text-gray-400">Lagos, NG</p>
                   </div>
                 </div>
               </div>
@@ -78,19 +78,19 @@ const Contact = () => {
                 <h4 className="text-white font-medium mb-4">Follow me on:</h4>
                 <div className="flex space-x-4">
                   <a
-                    href="#"
+                    href="https://github.com/stevesdiary"
                     className="bg-gray-700 hover:bg-blue-600 p-3 rounded-lg transition-colors"
                   >
                     <Github className="h-5 w-5 text-white" />
                   </a>
                   <a
-                    href="#"
+                    href="https://linkedin.com/in/stephenoyeyemi"
                     className="bg-gray-700 hover:bg-blue-600 p-3 rounded-lg transition-colors"
                   >
                     <Linkedin className="h-5 w-5 text-white" />
                   </a>
                   <a
-                    href="#"
+                    href="https://x.com/stevesdiary_"
                     className="bg-gray-700 hover:bg-blue-600 p-3 rounded-lg transition-colors"
                   >
                     <Twitter className="h-5 w-5 text-white" />
